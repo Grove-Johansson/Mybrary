@@ -17,6 +17,7 @@
     "express-ejs-layouts": "^2.5.1",
     "heroku": "^7.59.1",
     "mongoose": "^6.0.12",
+    "multer": "^1.4.3",
     "node": "^17.0.1"
   },
   "devDependencies": {
